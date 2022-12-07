@@ -22,5 +22,5 @@ I'm Kambiz Asadzadeh a software engineer and C++ expert.
 
 8️⃣ Ask me anything related to programming.
 
-9️⃣ Fun fact : Have been developing software for most part of my life
+9️⃣ Fun fact : Have been developing software for most part of my life.
 
