@@ -10,17 +10,16 @@ I'm Kambiz Asadzadeh a software engineer and C++ expert.
 
 2️⃣ Full stack developer and IT professional with over 10 years of experience.
 
-3️⃣ Proficient with C++, PHP, JavaScript, CSS, HTML and QML.
+3️⃣ Proficient with C, C++, PHP, JavaScript, CSS, HTML and Qt, QML.
 
-4️⃣ Have mastered many areas of programming like Web Development and server-side programming.
+4️⃣ Proficient with development on macOS, Linux, Windows, iOS, Android, Web and Wasm platforms.
 
-5️⃣ I’m currently working on the project Tegra.
+5️⃣ Have mastered many areas of programming like Web Development and server-side programming.
 
-6️⃣ Looking for funds to complete my Tegra Project. Support us at GitHub Sponsors or Genyleap.
+6️⃣ I’m currently working on the project Tegra.
 
-7️⃣ How to reach me : @KambizAsadzadeh id on social media or email: kambiz.ceo@gmail.com
+7️⃣ Looking for funds to complete my Tegra Project. Support us at GitHub Sponsors or Genyleap.
 
-8️⃣ Ask me anything related to programming.
+8️⃣ How to reach me : @KambizAsadzadeh id on social media or email: kambiz.ceo@gmail.com
 
 9️⃣ Fun fact : Have been developing software for most part of my life.
-
