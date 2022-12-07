@@ -10,7 +10,7 @@ I'm Kambiz Asadzadeh a software engineer and C++ expert.
 
 2️⃣ Full stack developer and IT professional with over 10 years of experience.
 
-3️⃣ Proficient with C, C++, PHP, JavaScript, CSS, HTML and Qt, QML.
+3️⃣ Proficient with C, C++, PHP, JavaScript, CSS, HTML and Qt Quick technology.
 
 4️⃣ Proficient with development on macOS, Linux, Windows, iOS, Android, Web and Wasm platforms.
 
