@@ -14,7 +14,7 @@ I'm Kambiz Asadzadeh a computer engineer who believes that programming and techn
 
 5️⃣ Have mastered many areas of programming like Web Development and server-side programming.
 
-6️⃣ I’m currently working on the project Tegra.
+6️⃣ I’m currently working on the project Cell engine for future.
 
 7️⃣ Looking for funds to complete my Tegra Project. Support us at GitHub Sponsors or Genyleap.
 
