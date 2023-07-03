@@ -21,8 +21,3 @@ I'm Kambiz Asadzadeh a computer engineer who believes that programming and techn
 8️⃣ How to reach me : @KambizAsadzadeh id on social media or email: kambiz.ceo@gmail.com
 
 9️⃣ Fun fact : Have been developing software for most part of my life.
-
-### Check out my Gigs on Upwork and Fiveer:
-
-- https://www.upwork.com/freelancers/~01a510f75a8df55ce8
-- https://www.fiverr.com/kambizasadzadeh
