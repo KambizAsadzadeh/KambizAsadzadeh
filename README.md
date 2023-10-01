@@ -6,7 +6,7 @@ I'm Kambiz Asadzadeh a computer engineer who believes that programming and techn
 
 1️⃣ Creative software developer.
 
-2️⃣ Full stack developer and IT professional with over 10 years of experience.
+2️⃣ Full stack developer and IT professional with over 15 years of experience.
 
 3️⃣ Proficient with C, C++, PHP, JavaScript, QML, CSS, HTML and Qt Quick technology.
 
