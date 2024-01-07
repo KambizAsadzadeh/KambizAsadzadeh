@@ -8,9 +8,9 @@ I'm Kambiz Asadzadeh a computer engineer who believes that programming and techn
 
 2️⃣ Full stack developer and IT professional with over 15 years of experience.
 
-3️⃣ Proficient with C, C++, PHP, JavaScript, QML, CSS, HTML and Qt Quick technology.
+3️⃣ Proficient with C, C++, PHP, Solidity, JavaScript, QML, CSS, HTML and Qt Quick technology.
 
-4️⃣ Proficient with development on macOS, Linux, Windows, iOS, Android, Web and Wasm platforms.
+4️⃣ Proficient with development on macOS, Linux, Windows, iOS, Android, Web, Web3, and Wasm platforms.
 
 5️⃣ Have mastered many areas of programming like Web Development and server-side programming.
 
