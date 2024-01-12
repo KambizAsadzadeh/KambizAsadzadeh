@@ -8,7 +8,7 @@ I'm Kambiz Asadzadeh a computer engineer who believes that programming and techn
 
 2️⃣ Full stack developer and IT professional with over 15 years of experience.
 
-3️⃣ Proficient with C, C++, PHP, Solidity, JavaScript, QML, CSS, HTML and Qt Quick technology.
+3️⃣ Proficient with C, C++, PHP, JavaScript, QML, CSS, HTML and Qt Quick technology.
 
 4️⃣ Proficient with development on macOS, Linux, Windows, iOS, Android, Web, Web3, and Wasm platforms.
 
@@ -21,3 +21,5 @@ I'm Kambiz Asadzadeh a computer engineer who believes that programming and techn
 8️⃣ How to reach me : @KambizAsadzadeh id on social media or email: kambiz.ceo@gmail.com
 
 9️⃣ Fun fact : Have been developing software for most part of my life.
+
+1️⃣0️⃣ Things I'm learning... [Solidity, Unreal Engine]
