@@ -18,7 +18,7 @@ I'm Kambiz Asadzadeh a computer engineer who believes that programming and techn
 
 7️⃣ Looking for funds to complete my Tegra Project. Support us at GitHub Sponsors or Genyleap.
 
-8️⃣ How to reach me : @KambizAsadzadeh id on social media or email: kambiz.ceo@gmail.com
+8️⃣ How to reach me : @thecompez id on social media or email: kambiz.ceo@gmail.com
 
 9️⃣ Fun fact : Have been developing software for most part of my life.
 
